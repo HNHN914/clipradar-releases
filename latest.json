@@ -1,21 +1,21 @@
 {
-  "version": "0.2.0",
-  "date": "2026-10-15",
+  "version": "0.2.1",
+  "date": "2026-10-16",
   "notes": [
-    "편집 프로젝트: 인트로와 하이라이트를 타임라인에서 이어 붙여 한 편으로 (컷 분할·순서 변경·페이드 전환)",
-    "자동 자막(Gemini) 생성·수정, 자막 레이어와 줄별 위치, 자막 움직임 효과",
-    "쇼츠 화면: 가운데 배치(위 제목·아래 자막), 글꼴·색·테두리·자간·그림자, 텍스트 박스 끌어서 배치, 스타일 프리셋",
-    "자막 앞 캐릭터 이미지, 이미지·영상·음악 자료실과 레이어(크로마키 포함)",
-    "소리: 큰 소리 자동 줄이기, 클립·구간별 볼륨, 파형 표시",
-    "글꼴 관리, 프로젝트 페이지, 테마(라이트·다크), 설정 화면에서 Gemini 키 입력",
-    "앱 안에서 새 버전 알림과 자동 업데이트"
+    "이름이 컷콕(CutKok)으로 바뀌었어요. 새 아이콘과 함께, 예전 ClipRadar의 프로젝트·설정은 처음 실행할 때 자동으로 옮겨져요",
+    "홈 화면: 영상 불러오기, 이어서 편집하기, 분석한 녹화본을 한곳에",
+    "영상 불러오기에 Windows 파일 선택 창 추가",
+    "녹화본 화면: 장면 카드 정리, 종류별 필터, 여러 장면을 골라 한 번에 편집",
+    "화면 분할·배치: 게임 화면과 얼굴(캠)을 따로 잘라 쇼츠에 배치 (상하 분할 · 장면 캡처)",
+    "편집기: 이미 넣은 하이라이트는 '추가됨'으로 표시",
+    "라이브 분석 메뉴는 설정의 Beta 기능으로 이동, 폰트 관리는 설정 안으로"
   ],
   "downloads": {
     "win-x64": {
-      "url": "https://github.com/HNHN914/clipradar-releases/releases/download/v0.2.0/ClipRadar-win-x64-0.2.0.zip",
-      "size": 194583586,
-      "sha256": "5dde69b2e38cd892b3b78e6a9f31f7856008ce2945e86bcfc7c0bb459aa74c8a"
+      "url": "https://github.com/HNHN914/clipradar-releases/releases/download/v0.2.1/CutKok-win-x64-0.2.1-update.zip",
+      "size": 195700963,
+      "sha256": "1f50a4696e233756f2a36018dae0b730524ae669aa2a8f4c6bff65a790ca75cf"
     }
   },
-  "signature": "Pc2LpxkuqMvQX3CxsLBMSB7OSNlnbL+K9jmgAUEBFx6KLelqLjHBp30bjhccFW3IAFn5GHJ2Ia8505D2hOq5Cg=="
+  "signature": "rIxWWsnlkyhy6nO4SjYEBoHbz0HgVfWzCICs5vK/s4qsBuCdkm1VaK/5CX6Xgxtb3lKd8jvMtP/ouG0wA7DgAw=="
 }
