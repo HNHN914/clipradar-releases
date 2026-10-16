@@ -1,21 +1,15 @@
 {
-  "version": "0.2.1",
+  "version": "0.2.2",
   "date": "2026-10-16",
   "notes": [
-    "이름이 컷콕(CutKok)으로 바뀌었어요. 새 아이콘과 함께, 예전 ClipRadar의 프로젝트·설정은 처음 실행할 때 자동으로 옮겨져요",
-    "홈 화면: 영상 불러오기, 이어서 편집하기, 분석한 녹화본을 한곳에",
-    "영상 불러오기에 Windows 파일 선택 창 추가",
-    "녹화본 화면: 장면 카드 정리, 종류별 필터, 여러 장면을 골라 한 번에 편집",
-    "화면 분할·배치: 게임 화면과 얼굴(캠)을 따로 잘라 쇼츠에 배치 (상하 분할 · 장면 캡처)",
-    "편집기: 이미 넣은 하이라이트는 '추가됨'으로 표시",
-    "라이브 분석 메뉴는 설정의 Beta 기능으로 이동, 폰트 관리는 설정 안으로"
+    "좌측 상단 컷콕 로고가 깨져 보이던 문제를 고쳤어요"
   ],
   "downloads": {
     "win-x64": {
-      "url": "https://github.com/HNHN914/clipradar-releases/releases/download/v0.2.1/CutKok-win-x64-0.2.1-update.zip",
-      "size": 195700963,
-      "sha256": "1f50a4696e233756f2a36018dae0b730524ae669aa2a8f4c6bff65a790ca75cf"
+      "url": "https://github.com/HNHN914/clipradar-releases/releases/download/v0.2.2/CutKok-win-x64-0.2.2-update.zip",
+      "size": 196192342,
+      "sha256": "23c7d1704239677bcb8d183a8922f12fdcd8ee362732660de45bb161dec07e08"
     }
   },
-  "signature": "rIxWWsnlkyhy6nO4SjYEBoHbz0HgVfWzCICs5vK/s4qsBuCdkm1VaK/5CX6Xgxtb3lKd8jvMtP/ouG0wA7DgAw=="
+  "signature": "GpDv0fVvyIsDc9LjB6vnQ20qJcyOUtoLyS/6OcWjclOJkZw7uVbpQLYVszHiyaZHc/UJVcdtuvBWLRz3XxmQDA=="
 }
